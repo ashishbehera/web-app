@@ -1,0 +1,7 @@
+/Users/ashbeher/Projects/webapptest/webapptest/bin/Release/net7.0/publish/webapptest
+/Users/ashbeher/Projects/webapptest/webapptest/bin/Release/net7.0/publish/appsettings.Development.json
+/Users/ashbeher/Projects/webapptest/webapptest/bin/Release/net7.0/publish/appsettings.json
+/Users/ashbeher/Projects/webapptest/webapptest/bin/Release/net7.0/publish/webapptest.dll
+/Users/ashbeher/Projects/webapptest/webapptest/bin/Release/net7.0/publish/webapptest.deps.json
+/Users/ashbeher/Projects/webapptest/webapptest/bin/Release/net7.0/publish/webapptest.runtimeconfig.json
+/Users/ashbeher/Projects/webapptest/webapptest/bin/Release/net7.0/publish/webapptest.pdb
